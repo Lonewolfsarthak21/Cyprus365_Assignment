@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Photomode",
+	"Description": "Screenshot taker",
+	"Category": "Other",
+	"CreatedBy": "LonewolfSarthak21",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Photomode",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
